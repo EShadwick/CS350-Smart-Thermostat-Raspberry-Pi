@@ -26,6 +26,8 @@ A working smart thermostat prototype built for SNHU **CS-350 Emerging Systems Ar
 
 Buttons use 10k pull-up resistors on the breadboard. A potentiometer sets the LCD contrast.
 
+**Wiring map:** [CS350_Breadboard_Map.xlsx](CS350_Breadboard_Map.xlsx) documents the breadboard at every stage of the build, from the Module One LED to the finished thermostat. Each tab has a top-down hole-by-hole layout and a connections table, plus a blank template for mapping new stages.
+
 ## Software
 
 - Raspberry Pi 4B running Ubuntu Server 24.04, managed headless over SSH
